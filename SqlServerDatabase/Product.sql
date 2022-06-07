@@ -4,5 +4,6 @@
     [Name] VARCHAR(50) NULL, 
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL,
-    [Size] INT NULL
+    [Size] INT NULL,
+    [LastName] VARCHAR(50) NULL
 )
